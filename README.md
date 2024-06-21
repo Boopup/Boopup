@@ -5,3 +5,4 @@ Hey, I'm Boo, a Roblox Developer! You can read more about me on my website, [Boo
 ### Github Stats 📊
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=boopup&border_radius=25&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31qeag5rl53lupyt3ppplctcgz2y&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=ffffff&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31qeag5rl53lupyt3ppplctcgz2y&redirect=true)
