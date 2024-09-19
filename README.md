@@ -1,5 +1,4 @@
 [![Head](/head.svg)](https://boopup.dev/)
-## Hi there 👋
 Hey, I'm Boo, a Roblox Developer! You can read more about me on my website, [Boopup.dev](https://boopup.dev)!
 
 ### Github Stats 📊
