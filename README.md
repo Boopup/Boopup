@@ -1,4 +1,5 @@
 [![Head](/head.svg)](https://boopup.dev/)
+![](https://komarev.com/ghpvc/?username=boopup&style=for-the-badge)
 #### ----
 Hey, I'm Boo, a Roblox Developer! You can read more about me on my website, [Boopup.dev](https://boopup.dev)!
 
